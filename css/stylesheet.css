@@ -62,7 +62,7 @@ h4 {
 	margin: 0;
 	font-size: 1.1666666666666667em;
 	line-height: 1.2857142857142858em;
-	margin-bottom: 1.2857142857142858em;
+	margin-bottom: 0.5em;
 }
 p, ul, blockquote, pre, td, th, label {
 	margin: 0;
@@ -215,8 +215,8 @@ h1 span, h2 span, h3 span, h4 span, h5 span, h6 span {
     border: 1px solid #ccc;
 }
 
-.outline-1, .outline-2, .outline-3, .outline-4, .outline-5, .outline-6 {
-    margin-left: 2em;
+.outline-1, .outline-2, .outline-3 {
+    margin-left: 0.5em;
 }
 
 a {
